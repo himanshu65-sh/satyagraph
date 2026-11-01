@@ -1,0 +1,12 @@
+streamlit>=1.66.1
+requests==2.32.3
+python-dotenv==1.0.1
+feedparser==6.0.11
+duckduckgo-search==7.3.2
+Pillow>=12.1.1
+numpy>=2.5.4
+opencv-python-headless==4.11.0.86
+networkx==3.4.2
+pyvis==0.3.2
+scikit-learn>=1.7.2
+beautifulsoup4==4.13.3
